@@ -1,0 +1,20 @@
+{
+  "dashboard": "Doctor / Health Worker Dashboard",
+  "todayQueue": "Today's Live Queue",
+  "startConsultation": "Start Consultation",
+  "aiTriage": "AI-Assisted Digital Triage",
+  "aiRisk": "AI Risk Detection & Early Warning",
+  "generateSummary": "Generate AI Record Summary",
+  "createReferral": "Create Specialist Referral",
+  "scheduleFollowup": "Schedule Follow-up",
+  "patientRecords": "Longitudinal Patient Timeline",
+  "vitals": "Patient Vitals",
+  "chiefComplaints": "Chief Complaints",
+  "diagnoses": "Diagnoses",
+  "prescriptions": "Prescriptions & Medications",
+  "highRiskPatients": "High-Risk Patient Watchlist",
+  "acceptDecision": "Accept AI Assessment",
+  "modifyDecision": "Modify Risk Level",
+  "rejectDecision": "Reject Assessment",
+  "teleconsult": "Start WebRTC Teleconsultation"
+}

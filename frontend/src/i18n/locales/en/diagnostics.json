@@ -1,0 +1,8 @@
+{
+  "title": "Facility Diagnostic Services",
+  "testName": "Diagnostic Test Name",
+  "category": "Service Category",
+  "reportTime": "Est. Report Turnaround",
+  "availability": "Service Availability",
+  "updateService": "Update Diagnostic Status"
+}

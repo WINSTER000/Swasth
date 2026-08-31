@@ -1,0 +1,15 @@
+{
+  "welcome": "Welcome back",
+  "upcomingAppt": "Upcoming Appointment",
+  "currentQueue": "Current Queue Position",
+  "activeReferral": "Active Medical Referral",
+  "followupReminders": "Follow-up Reminders",
+  "nearbyFacilities": "Nearby Healthcare Facilities",
+  "medicineAvailability": "Medicine Stock Status",
+  "diagnosticAvailability": "Diagnostic Services",
+  "recentRecords": "Recent Health Encounters",
+  "findHealthcare": "Find Healthcare",
+  "aiAssistant": "AI Health Assistant",
+  "emergencyBtn": "24x7 Emergency Escalation",
+  "token": "Token #"
+}

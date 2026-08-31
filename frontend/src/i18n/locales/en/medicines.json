@@ -1,0 +1,10 @@
+{
+  "title": "Essential Medicine Inventory",
+  "searchMedicine": "Search Medicine Name",
+  "stockQuantity": "Available Stock Quantity",
+  "status": "Stock Status",
+  "available": "In Stock (Available)",
+  "limited": "Low Stock (Limited)",
+  "outOfStock": "Out of Stock",
+  "updateStock": "Update Inventory Stock"
+}

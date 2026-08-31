@@ -1,0 +1,14 @@
+{
+  "dashboard": "अस्पताल एवं जन-स्वास्थ्य प्रशासन कंसोल",
+  "hospitalMode": "अस्पताल संचालन दृश्य",
+  "govtMode": "सरकारी जन-स्वास्थ्य निगरानी",
+  "facilityManagement": "स्वास्थ्य केंद्र एवं कर्मचारी प्रबंधन",
+  "referralAnalytics": "रेफरल प्रदर्शन विश्लेषण",
+  "medicineInventory": "औषधि भंडार प्रबंधन",
+  "diagnosticManager": "डायग्नोस्टिक सेवा प्रबंधक",
+  "riskAggregation": "जिला जोखिम एवं गुणवत्ता निगरानी",
+  "patientsServed": "कुल उपचारित रोगी",
+  "completionRate": "रेफरल पूर्णता दर",
+  "avgWaitTime": "औसत प्रतीक्षा समय",
+  "bedOccupancy": "शैया (बेड) उपलब्धता"
+}

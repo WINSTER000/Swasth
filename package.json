@@ -1,0 +1,16 @@
+{
+  "name": "swasth-platform",
+  "version": "1.0.0",
+  "description": "SWASTH — AI-Assisted Rural Healthcare Access & Continuity Platform",
+  "main": "backend/server.js",
+  "scripts": {
+    "install:all": "npm install && npm --prefix backend install && npm --prefix frontend install",
+    "seed": "node backend/seed/seedDatabase.js",
+    "server": "npm --prefix backend start",
+    "client": "npm --prefix frontend dev",
+    "dev": "concurrently \"npm run server\" \"npm run client\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

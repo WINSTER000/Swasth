@@ -1,0 +1,8 @@
+{
+  "title": "Patient Follow-up Management",
+  "scheduledDate": "Scheduled Follow-up Date",
+  "reason": "Follow-up Purpose",
+  "priority": "Priority Level",
+  "notes": "Clinical Notes & Reminders",
+  "markCompleted": "Mark Follow-up Completed"
+}

@@ -1,0 +1,14 @@
+{
+  "dashboard": "रुग्णालय आणि सार्वजनिक आरोग्य प्रशासन",
+  "hospitalMode": "रुग्णालय व्यवस्थापन",
+  "govtMode": "शासकीय सार्वजनिक आरोग्य देखरेख",
+  "facilityManagement": "आरोग्य केंद्र व कर्मचारी व्यवस्थापन",
+  "referralAnalytics": "रेफरल कामगिरी विश्लेषण",
+  "medicineInventory": "औषध साठा व्यवस्थापन",
+  "diagnosticManager": "तपासणी सेवा व्यवस्थापक",
+  "riskAggregation": "जिल्हा आरोग्य धोका व दर्जा देखरेख",
+  "patientsServed": "एकूण उपचार घेतलेले रुग्ण",
+  "completionRate": "रेफरल पूर्णता प्रमाण",
+  "avgWaitTime": "सरासरी प्रतीक्षा वेळ",
+  "bedOccupancy": "खाटांची (बेड्स) उपलब्धता"
+}

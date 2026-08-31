@@ -1,0 +1,20 @@
+{
+  "dashboard": "डॉक्टर / आरोग्य सेवक डॅशबोर्ड",
+  "todayQueue": "आजची थेट रांग",
+  "startConsultation": "तपासणी सुरू करा",
+  "aiTriage": "एआय-सहाय्यित डिजिटल ट्रायज",
+  "aiRisk": "एआय धोका शोध आणि पूर्वसूचना",
+  "generateSummary": "एआय वैद्यकीय सारांश तयार करा",
+  "createReferral": "तज्ञ डॉक्टरांकडे रेफरल पाठवा",
+  "scheduleFollowup": "फॉलो-अप तारीख ठरवा",
+  "patientRecords": "रुग्णाचा संपूर्ण इतिहास",
+  "vitals": "शारीरिक चिन्हे (व्हाइटल्स)",
+  "chiefComplaints": "मुख्य लक्षणे",
+  "diagnoses": "रोगनिदान",
+  "prescriptions": "औषध चिठ्ठी (प्रिस्क्रीप्शन)",
+  "highRiskPatients": "गंभीर रुग्ण यादी",
+  "acceptDecision": "एआय मूल्यमापन स्वीकारा",
+  "modifyDecision": "धोका पातळी बदला",
+  "rejectDecision": "मूल्यमापन नाकारा",
+  "teleconsult": "वेबआरटीसी व्हिडिओ तपासणी"
+}

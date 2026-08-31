@@ -1,0 +1,13 @@
+{
+  "bookAppointment": "Book New Appointment",
+  "selectFacility": "Select Healthcare Facility",
+  "selectDepartment": "Select Department",
+  "selectDate": "Appointment Date",
+  "selectTime": "Preferred Time",
+  "reason": "Reason for Visit",
+  "appointmentType": "Type (In-Person / Teleconsult)",
+  "confirmBooking": "Confirm Appointment",
+  "myAppointments": "My Appointments",
+  "tokenNumber": "Token Number",
+  "cancelAppointment": "Cancel Appointment"
+}

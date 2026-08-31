@@ -1,0 +1,11 @@
+{
+  "title": "Medical Continuity & Referrals",
+  "referringFacility": "Referring PHC / CHC",
+  "receivingFacility": "Receiving Hospital",
+  "reason": "Referral Reason",
+  "urgency": "Urgency Level",
+  "clinicalSummary": "Clinical Summary",
+  "status": "Referral Progress Status",
+  "acceptReferral": "Accept & Schedule Appointment",
+  "completeCare": "Mark Referral Care Completed"
+}

@@ -1,0 +1,10 @@
+{
+  "title": "AI Risk Detection & Early Warning System",
+  "riskLevel": "Assessed Risk Level",
+  "factors": "Contributing Risk Factors",
+  "warningSignals": "Early Warning Signals",
+  "recommendedAction": "Recommended Clinical Action",
+  "confidence": "AI Model Confidence",
+  "reviewHeader": "Health Worker Clinical Review Required",
+  "disclaimer": "AI-assisted assessment requiring professional review."
+}

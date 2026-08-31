@@ -1,0 +1,20 @@
+{
+  "dashboard": "चिकित्सक / स्वास्थ्य कार्यकर्ता डैशबोर्ड",
+  "todayQueue": "आज की लाइव कतार",
+  "startConsultation": "परामर्श शुरू करें",
+  "aiTriage": "एआई-सहायता प्राप्त डिजिटल ट्राइएज",
+  "aiRisk": "एआई जोखिम पहचान एवं चेतावनी",
+  "generateSummary": "एआई नैदानिक सार बनाएं",
+  "createReferral": "विशेषज्ञ रेफरल बनाएं",
+  "scheduleFollowup": "फॉलो-अप शेड्यूल करें",
+  "patientRecords": "रोगी का संपूर्ण स्वास्थ्य इतिहास",
+  "vitals": "शारीरिक लक्षण (वाइटल्स)",
+  "chiefComplaints": "मुख्य लक्षण",
+  "diagnoses": "निदान",
+  "prescriptions": "औषधि पर्ची (प्रिस्क्रिप्शन)",
+  "highRiskPatients": "उच्च-जोखिम रोगी सूची",
+  "acceptDecision": "एआई आकलन स्वीकार करें",
+  "modifyDecision": "जोखिम स्तर बदलें",
+  "rejectDecision": "आकलन अस्वीकार करें",
+  "teleconsult": "वेबआरटीसी टेलीकंसल्टेशन शुरू करें"
+}

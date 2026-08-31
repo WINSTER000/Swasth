@@ -1,0 +1,13 @@
+{
+  "bookAppointment": "नवीन अपॉइंटमेंट घ्या",
+  "selectFacility": "आरोग्य केंद्र निवडा",
+  "selectDepartment": "विभाग निवडा",
+  "selectDate": "अपॉइंटमेंट तारीख",
+  "selectTime": "वेळ निवडा",
+  "reason": "येण्याचे कारण",
+  "appointmentType": "प्रकार (प्रत्यक्ष / ऑनलाइन)",
+  "confirmBooking": "अपॉइंटमेंट निश्चित करा",
+  "myAppointments": "माझ्या अपॉइंटमेंट्स",
+  "tokenNumber": "टोकन नंबर",
+  "cancelAppointment": "अपॉइंटमेंट रद्द करा"
+}

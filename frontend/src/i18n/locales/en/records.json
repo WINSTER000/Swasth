@@ -1,0 +1,10 @@
+{
+  "title": "Digital Medical Records",
+  "timeline": "Clinical Timeline",
+  "encounters": "Encounters & Consultations",
+  "prescriptions": "Prescriptions",
+  "labReports": "Laboratory Reports",
+  "allergies": "Known Allergies",
+  "chronicConditions": "Chronic Conditions",
+  "bloodGroup": "Blood Group"
+}

@@ -1,0 +1,11 @@
+{
+  "liveQueueTracker": "Live Patient Queue Tracker",
+  "currentToken": "Current Serving Token",
+  "yourToken": "Your Token Number",
+  "peopleAhead": "Patients Ahead of You",
+  "estWait": "Estimated Waiting Time",
+  "checkIn": "Check Into Queue",
+  "callNext": "Call Next Patient",
+  "inConsultation": "In Consultation",
+  "completed": "Consultation Completed"
+}

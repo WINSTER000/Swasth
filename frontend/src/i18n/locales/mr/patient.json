@@ -1,0 +1,15 @@
+{
+  "welcome": "नमस्कार",
+  "upcomingAppt": "पुढील अपॉइंटमेंट",
+  "currentQueue": "सध्याची रांगेतील स्थिती",
+  "activeReferral": "सक्रिय वैद्यकीय रेफरल",
+  "followupReminders": "फॉलो-अप स्मरणपत्रे",
+  "nearbyFacilities": "जवळची आरोग्य केंद्रे",
+  "medicineAvailability": "औषध साठा स्थिती",
+  "diagnosticAvailability": "तपासणी (डायग्नोस्टिक) सेवा",
+  "recentRecords": "अलीकडील आरोग्य तपासण्या",
+  "findHealthcare": "आरोग्य केंद्र शोधा",
+  "aiAssistant": "एआय आरोग्य सहाय्यक",
+  "emergencyBtn": "२४x७ आणीबाणी मदत",
+  "token": "टोकन क्र."
+}

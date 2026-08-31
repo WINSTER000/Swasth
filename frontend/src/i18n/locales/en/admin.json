@@ -1,0 +1,14 @@
+{
+  "dashboard": "Hospital & Public Health Admin Console",
+  "hospitalMode": "Hospital Operational View",
+  "govtMode": "Government Public Health Monitoring",
+  "facilityManagement": "Facility & Staff Management",
+  "referralAnalytics": "Referral Performance Analytics",
+  "medicineInventory": "Medicine Stock Management",
+  "diagnosticManager": "Diagnostic Services Manager",
+  "riskAggregation": "District Risk & Quality Monitoring",
+  "patientsServed": "Total Patients Served",
+  "completionRate": "Referral Completion Rate",
+  "avgWaitTime": "Average Waiting Time",
+  "bedOccupancy": "Bed Occupancy Status"
+}
