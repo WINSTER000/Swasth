@@ -98,6 +98,31 @@ The platform focuses on continuity of care, helping prevent patients from gettin
 </table>
 
 
+## 🌐 Live Demo
+
+<p align="center">
+
+<a href="https://swasth-1-9pfw.onrender.com">
+  <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-SWASTH-0A8F6F?style=for-the-badge" alt="Swasth Live Demo"/>
+</a>
+
+</p>
+
+<p align="center">
+  <b>SWASTH — AI-Assisted Rural Healthcare Access & Continuity Platform</b>
+</p>
+
+<p align="center">
+  <a href="https://swasth-1-9pfw.onrender.com">
+    🌐 Open Swasth Prototype
+  </a>
+</p>
+
+> 🔗 **Live Prototype:** https://swasth-1-9pfw.onrender.com
+>
+> The deployed prototype showcases the complete SWASTH healthcare ecosystem, including authentication, patient services, healthcare-worker workflows, facility management, referrals, follow-ups, AI-assisted tools, emergency access, analytics, and real-time communication.
+
+
 🔄 How SWASTH Works
 
 Patient → Appointment / Consultation → Medical Record → AI-Assisted Triage & Risk Detection → Referral if Required → Receiving Healthcare Facility → Treatment & Follow-up → Continuous Patient Care
