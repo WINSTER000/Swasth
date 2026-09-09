@@ -2,12 +2,26 @@ const mongoose = require('mongoose');
 
 const NotificationSchema = new mongoose.Schema(
   {
-    user: { type: mongoose.Schema.Types.ObjectId, ref: 'User', required: true },
-    title: { type: String, required: true },
-    message: { type: String, required: true },
+    user: {
+      type: mongoose.Schema.Types.ObjectId,
+      ref: 'User',
+      required: true,
+    },
+
+    title: {
+      type: String,
+      required: true,
+    },
+
+    message: {
+      type: String,
+      required: true,
+    },
+
     type: {
       type: String,
       enum: [
+        'APPOINTMENT_CONFIRMED',
         'APPOINTMENT_CONFIRMATION',
         'APPOINTMENT_REMINDER',
         'QUEUE_UPDATE',
@@ -23,8 +37,13 @@ const NotificationSchema = new mongoose.Schema(
       ],
       required: true,
     },
+
     link: String,
-    isRead: { type: Boolean, default: false },
+
+    isRead: {
+      type: Boolean,
+      default: false,
+    },
   },
   { timestamps: true }
 );
