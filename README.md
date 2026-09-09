@@ -37,8 +37,6 @@ The platform focuses on continuity of care, helping prevent patients from gettin
 
 🗺️ Facility discovery using Leaflet and OpenStreetMap
 
-🌐 English, Hindi and Marathi language support
-
 📊 Facility and public-health dashboards
 
 🔐 JWT authentication and role-based access
@@ -47,6 +45,7 @@ The platform focuses on continuity of care, helping prevent patients from gettin
 
 📡 Support for low-connectivity environments
 
+🌐 Language Selection & AI Voice Support — Language options for English, Hindi, and Marathi, with multilingual AI Assistant voice interaction; full application UI translation is planned for a future release.
 
 ## 🖥️ Applications Preview
 
