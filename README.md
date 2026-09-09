@@ -108,7 +108,7 @@ SWASTH uses an AI service layer for healthcare decision support. The AI system c
 
 AI-generated results are presented as decision-support information, while healthcare workers remain responsible for clinical decisions.
 
-The AI architecture uses a provider layer so different AI providers can be integrated without changing the rest of the application.
+AI Architecture: The AI assistant operates on data available within the SWASTH platform, such as patient records, medical history, consultations, and other authorized healthcare information. It does not rely on external patient data or internet-based medical searches for its core analysis.
 
 🏗️ System Architecture
 
