@@ -1,3 +1,11 @@
+SWASTH 🏥
+
+AI-Assisted Rural Healthcare Access & Continuity Platform
+
+SWASTH is a full-stack healthcare platform designed to improve access to public healthcare services in rural and underserved communities. It connects patients, healthcare workers, and healthcare facilities in one system to support the complete healthcare journey — from consultation and diagnosis support to referrals and follow-up care.
+
+The platform focuses on continuity of care, helping prevent patients from getting lost between different healthcare facilities by keeping important information, referrals, and follow-ups connected.
+
 ## Problem Statement
 
 | | Details |
@@ -6,14 +14,6 @@
 | **Problem Statement Title** | Accessibility and quality of public healthcare services, particularly in rural and underserved areas |
 | **Theme** | MedTech / BioTech / HealthTech |
 | **PS Category** | Software |
-
-SWASTH 🏥
-
-AI-Assisted Rural Healthcare Access & Continuity Platform
-
-SWASTH is a full-stack healthcare platform designed to improve access to public healthcare services in rural and underserved communities. It connects patients, healthcare workers, and healthcare facilities in one system to support the complete healthcare journey — from consultation and diagnosis support to referrals and follow-up care.
-
-The platform focuses on continuity of care, helping prevent patients from getting lost between different healthcare facilities by keeping important information, referrals, and follow-ups connected.
 
 🚀 Key Features
 
